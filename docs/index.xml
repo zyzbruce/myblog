@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2024 17:09:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 23:39:49 +0530</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Documentation - Basics</title>
@@ -35,13 +35,6 @@
       <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
       <guid>https://example.org/posts/emoji-support/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways.&#xA;The emojify function can be called directly in templates or Inline Shortcodes.&#xA;To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.&#xA;These begin and end with a colon and include the code of an emoji:&#xA;Gone camping! {?:}tent: Be back soon. That is so funny!</description>
-    </item>
-    <item>
-      <title>主页</title>
-      <link>https://example.org/posts/_index.md/</link>
-      <pubDate>Sat, 03 Aug 2024 17:09:12 -0400</pubDate>
-      <guid>https://example.org/posts/_index.md/</guid>
-      <description>欢迎来到我的博客 这是我的主页内容。</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
