@@ -37,11 +37,11 @@
       <description>Emoji can be enabled in a Hugo project in a number of ways.&#xA;The emojify function can be called directly in templates or Inline Shortcodes.&#xA;To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.&#xA;These begin and end with a colon and include the code of an emoji:&#xA;Gone camping! {?:}tent: Be back soon. That is so funny!</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <title>主页</title>
+      <link>https://example.org/posts/_index.md/</link>
       <pubDate>Sat, 03 Aug 2024 17:09:12 -0400</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>第一篇post 测试 这是我的第一篇博客文章，用于测试 Markdown 语法和 Hugo 部署。</description>
+      <guid>https://example.org/posts/_index.md/</guid>
+      <description>欢迎来到我的博客 这是我的主页内容。</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
