@@ -1,4 +1,4 @@
-bbaseURL = "https://<zyzbruce>.github.io/myblog"
+baseURL = "https://zyzbruce.github.io/myblog"
 title = "Gokarna"
 theme = "gokarna"
 languageCode = "en"
