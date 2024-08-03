@@ -1,4 +1,5 @@
 baseURL = "https://zyzbruce.github.io/myblog/"
+<<<<<<< HEAD
 title = "Gokarna"
 theme = "gokarna"
 languageCode = "zh-cn"
@@ -43,21 +44,49 @@ enableRobotsTXT = true
     {name = "email", url = "mailto:example@example.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
+=======
+title = "My Fresh Blog"
+theme = "PaperMod"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+# Enable or disable some default features
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+
+[params]
+  env = "production" # Change to "development" to see draft content and future dated content
+  theme = "auto" # "auto" (default), "dark" or "light"
+  defaultTheme = "auto" # Default theme to use
+  showReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+>>>>>>> bdaa531 (Initial commit with Hugo PaperMod theme)
 
 [menu]
   [[menu.main]]
     name = "Home"
+<<<<<<< HEAD
     pre = "<span data-feather='home'></span>"
+=======
+>>>>>>> bdaa531 (Initial commit with Hugo PaperMod theme)
     url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Posts"
+<<<<<<< HEAD
     pre = "<span data-feather='book'></span>"
+=======
+>>>>>>> bdaa531 (Initial commit with Hugo PaperMod theme)
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
+<<<<<<< HEAD
     name = "Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
@@ -92,3 +121,12 @@ enableRobotsTXT = true
     startLevel = 1
     endLevel = 4
     ordered = false
+=======
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+>>>>>>> bdaa531 (Initial commit with Hugo PaperMod theme)
